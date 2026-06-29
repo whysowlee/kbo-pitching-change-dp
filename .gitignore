@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Data (large/raw)
+data/raw/
+*.csv.gz
+
+# Editor
+.vscode/
+.idea/
